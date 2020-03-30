@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="txt_welcome">Login with your Acams account</string>
+    <string name="text_user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="text_section">Sections</string>
+    <string name="text_about">About</string>
+    <string name="txt_help">Help and FAQ</string>
+    <string name="txt_terms">Terms &amp; Conditions</string>
+    <string name="txt_classic">Classic</string>
+    <string name="view_profile">View Profile</string>
+    <string name="txt_no_badges_earned_yet">No badges earned yet</string>
+    <string name="completed">Completed</string>
+    <string name="started">Started</string>
+    <string name="non_started">Not-Started</string>
+    <string name="text_status">Status</string>
+    <string name="txt_badges">Badges</string>
+    <string name="txt_something_went_wrong">Something went wrong Please try again later</string>
+    <string name="txt_logout">Logout</string>
+    <string name="txt_session_error">Your session is expired! Please Login and try again.</string>
+    <string name="txt_no_network">Unable to connect to internet. Please check your internet Connection</string>
+    <string name="txt_error_username">Please enter your user name</string>
+    <string name="txt_error_password">Please enter your password</string>
+</resources>
